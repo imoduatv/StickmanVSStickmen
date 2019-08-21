@@ -1,0 +1,560 @@
+fileFormatVersion: 2
+guid: ec0d38152f554a9da5ffaa95bb8c70a4
+timeCreated: 1566397806
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300006: GameAsset_8
+    21300022: GameAsset_2
+    21300002: GameAsset_14
+    21300012: GameAsset_0
+    21300018: GameAsset_9
+    21300010: GameAsset_13
+    21300016: GameAsset_10
+    21300020: GameAsset_7
+    21300024: GameAsset_1
+    21300004: GameAsset_12
+    21300000: GameAsset_5
+    21300008: GameAsset_16
+    21300014: GameAsset_6
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 26.66667
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 56
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GameAsset_8
+      rect:
+        serializedVersion: 2
+        x: 0.3333359
+        y: 219.2667
+        width: 92.00001
+        height: 16.53333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.00001, y: 8.266667}
+        - {x: 46.00001, y: 8.266667}
+        - {x: -46.00001, y: -8.266667}
+      - - {x: -46.00001, y: -8.266667}
+        - {x: 46.00001, y: 8.266667}
+        - {x: 46.00001, y: -8.266667}
+      physicsShape:      
+      - - {x: 46.8333, y: 5.7667}
+        - {x: 43.8333, y: 8.7667}
+        - {x: -46.1667, y: 8.7667}
+        - {x: -46.1667, y: -8.2333}
+        - {x: 46.8333, y: -8.2333}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameAsset_2
+      rect:
+        serializedVersion: 2
+        x: 89.13336
+        y: 167.2
+        width: 48.53334
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.36664, y: -16.29999}
+        - {x: -24.36664, y: 24.70001}
+        - {x: -18.36664, y: -24.29999}
+      - - {x: 18.63336, y: 24.70001}
+        - {x: -18.36664, y: -24.29999}
+        - {x: -24.36664, y: 24.70001}
+      - - {x: 17.63336, y: -24.29999}
+        - {x: -18.36664, y: -24.29999}
+        - {x: 18.63336, y: 24.70001}
+      - - {x: 24.63336, y: -22.29999}
+        - {x: 17.63336, y: -24.29999}
+        - {x: 18.63336, y: 24.70001}
+      - - {x: 24.63336, y: 14.70002}
+        - {x: 24.63336, y: -22.29999}
+        - {x: 18.63336, y: 24.70001}
+      physicsShape:      
+      - - {x: 23.6334, y: 15.7000}
+        - {x: 8.6334, y: 24.7000}
+        - {x: -24.3666, y: 24.7000}
+        - {x: -24.3666, y: -5.3000}
+        - {x: -21.3666, y: -16.3000}
+        - {x: -9.3666, y: -24.3000}
+        - {x: 11.6334, y: -24.3000}
+        - {x: 18.6334, y: -22.3000}
+        - {x: 24.6334, y: -13.3000}
+        - {x: 24.6334, y: 10.7000}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameAsset_14
+      rect:
+        serializedVersion: 2
+        x: 99.33334
+        y: 96.73334
+        width: 67.2
+        height: 67.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.66667, y: -33.26667}
+        - {x: -33.66667, y: 34.73334}
+        - {x: 34.33334, y: -33.26667}
+      - - {x: 34.33334, y: 34.73334}
+        - {x: 34.33334, y: -33.26667}
+        - {x: -33.66667, y: 34.73334}
+      physicsShape:      
+      - - {x: -33.6667, y: 34.7333}
+        - {x: -33.6667, y: -33.2667}
+        - {x: 34.3333, y: -33.2667}
+        - {x: 34.3333, y: 34.7333}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameAsset_0
+      rect:
+        serializedVersion: 2
+        x: 0.4666672
+        y: 0.3333435
+        width: 95.46667
+        height: 102.4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.53334, y: -35.16667}
+        - {x: -47.53334, y: 38.83334}
+        - {x: -27.53334, y: -51.16667}
+      - - {x: -43.53334, y: 51.83334}
+        - {x: -27.53334, y: -51.16667}
+        - {x: -47.53334, y: 38.83334}
+      - - {x: 24.46667, y: 51.83334}
+        - {x: -27.53334, y: -51.16667}
+        - {x: -43.53334, y: 51.83334}
+      - - {x: 27.46667, y: -51.16667}
+        - {x: -27.53334, y: -51.16667}
+        - {x: 24.46667, y: 51.83334}
+      - - {x: 47.46667, y: 44.83334}
+        - {x: 27.46667, y: -51.16667}
+        - {x: 24.46667, y: 51.83334}
+      - - {x: 48.46667, y: -32.16667}
+        - {x: 27.46667, y: -51.16667}
+        - {x: 47.46667, y: 44.83334}
+      - - {x: 48.46667, y: 40.83334}
+        - {x: 48.46667, y: -32.16667}
+        - {x: 47.46667, y: 44.83334}
+      physicsShape:      
+      - - {x: 48.4667, y: -10.1667}
+        - {x: 48.4667, y: 19.8333}
+        - {x: 38.4667, y: 37.8333}
+        - {x: 27.4667, y: 45.8333}
+        - {x: 15.4667, y: 50.8333}
+        - {x: -20.5333, y: 50.8333}
+        - {x: -25.5333, y: 49.8333}
+        - {x: -29.5333, y: 43.8333}
+        - {x: -47.5333, y: 22.8333}
+        - {x: -47.5333, y: -12.1667}
+        - {x: -45.5333, y: -22.1667}
+        - {x: -31.5333, y: -37.1667}
+        - {x: -21.5333, y: -43.1666}
+        - {x: -6.5333, y: -49.1667}
+        - {x: 13.4667, y: -49.1667}
+        - {x: 27.4667, y: -45.1667}
+        - {x: 36.4667, y: -34.1667}
+        - {x: 41.4667, y: -26.1667}
+        - {x: 43.4667, y: -21.1667}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameAsset_9
+      rect:
+        serializedVersion: 2
+        x: 0.2000122
+        y: 195.2667
+        width: 25.06667
+        height: 13.86667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.53333, y: 6.933334}
+        - {x: 12.53333, y: 6.933334}
+        - {x: -12.53333, y: -6.933334}
+      - - {x: -12.53333, y: -6.933334}
+        - {x: 12.53333, y: 6.933334}
+        - {x: 12.53333, y: -6.933334}
+      physicsShape:      
+      - - {x: -12.8000, y: 7.7667}
+        - {x: -12.8000, y: -7.2333}
+        - {x: 11.2000, y: -7.2333}
+        - {x: 13.2000, y: -4.2333}
+        - {x: 13.2000, y: 5.7667}
+        - {x: 12.2000, y: 7.7667}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameAsset_13
+      rect:
+        serializedVersion: 2
+        x: 95.86667
+        y: 226.9333
+        width: 92.00001
+        height: 16.53333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.00001, y: 8.266667}
+        - {x: 46.00001, y: 8.266667}
+        - {x: -46.00001, y: -8.266667}
+      - - {x: -46.00001, y: -8.266667}
+        - {x: 46.00001, y: 8.266667}
+        - {x: 46.00001, y: -8.266667}
+      physicsShape:      
+      - - {x: -45.6333, y: 6.9333}
+        - {x: -45.6333, y: -8.0667}
+        - {x: 45.3667, y: -8.0667}
+        - {x: 47.3667, y: -7.0667}
+        - {x: 47.3667, y: 6.9333}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameAsset_10
+      rect:
+        serializedVersion: 2
+        x: 28.00002
+        y: 195.6
+        width: 25.06667
+        height: 13.86667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.53333, y: 6.933334}
+        - {x: 12.53333, y: 6.933334}
+        - {x: -12.53333, y: -6.933334}
+      - - {x: -12.53333, y: -6.933334}
+        - {x: 12.53333, y: 6.933334}
+        - {x: 12.53333, y: -6.933334}
+      physicsShape:      
+      - - {x: -13.0000, y: 8.1000}
+        - {x: -13.0000, y: -6.9000}
+        - {x: 10.0000, y: -6.9000}
+        - {x: 13.0000, y: -3.9000}
+        - {x: 13.0000, y: 8.1000}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameAsset_7
+      rect:
+        serializedVersion: 2
+        x: 170.8667
+        y: 96.2
+        width: 65.86667
+        height: 65.60001
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.63331, y: -23.8}
+        - {x: -32.63331, y: 19.2}
+        - {x: -21.6333, y: -32.8}
+      - - {x: -19.6333, y: 33.2}
+        - {x: -21.6333, y: -32.8}
+        - {x: -32.63331, y: 19.2}
+      - - {x: 27.3667, y: -32.8}
+        - {x: -21.6333, y: -32.8}
+        - {x: -19.6333, y: 33.2}
+      - - {x: 15.3667, y: 33.2}
+        - {x: 27.3667, y: -32.8}
+        - {x: -19.6333, y: 33.2}
+      - - {x: 34.3667, y: 23.20001}
+        - {x: 27.3667, y: -32.8}
+        - {x: 15.3667, y: 33.2}
+      - - {x: 34.3667, y: -28.8}
+        - {x: 27.3667, y: -32.8}
+        - {x: 34.3667, y: 23.20001}
+      physicsShape:      
+      - - {x: 34.3667, y: -13.8000}
+        - {x: 34.3667, y: -8.8000}
+        - {x: 29.3667, y: -2.8000}
+        - {x: 32.3667, y: 19.2000}
+        - {x: 31.3667, y: 22.2000}
+        - {x: 15.3667, y: 26.2000}
+        - {x: 2.3667, y: 33.2000}
+        - {x: -6.6333, y: 33.2000}
+        - {x: -16.6333, y: 26.2000}
+        - {x: -22.6333, y: 15.2000}
+        - {x: -32.6333, y: 11.2000}
+        - {x: -32.6333, y: 8.2000}
+        - {x: -27.6333, y: -20.8000}
+        - {x: -12.6333, y: -30.8000}
+        - {x: -4.6333, y: -32.8000}
+        - {x: 18.3667, y: -32.8000}
+        - {x: 20.3667, y: -29.8000}
+        - {x: 27.3667, y: -17.8000}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameAsset_1
+      rect:
+        serializedVersion: 2
+        x: 0.5333405
+        y: 106.8667
+        width: 84.8
+        height: 84.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.46667, y: -42.13334}
+        - {x: -42.46667, y: 43.86667}
+        - {x: 43.53334, y: -42.13334}
+      - - {x: 43.53334, y: 43.86667}
+        - {x: 43.53334, y: -42.13334}
+        - {x: -42.46667, y: 43.86667}
+      physicsShape:      
+      - - {x: -42.4667, y: 43.8667}
+        - {x: -42.4667, y: -42.1333}
+        - {x: 43.5333, y: -42.1333}
+        - {x: 43.5333, y: 43.8667}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameAsset_12
+      rect:
+        serializedVersion: 2
+        x: 99.60001
+        y: 0.4666672
+        width: 92.00001
+        height: 92.00001
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.90001, y: -46.03334}
+        - {x: -45.90001, y: 46.96667}
+        - {x: 47.10001, y: -46.03334}
+      - - {x: 47.10001, y: 46.96667}
+        - {x: 47.10001, y: -46.03334}
+        - {x: -45.90001, y: 46.96667}
+      physicsShape:      
+      - - {x: -45.9000, y: 46.9667}
+        - {x: -45.9000, y: -46.0333}
+        - {x: 47.1000, y: -46.0333}
+        - {x: 47.1000, y: 46.9667}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameAsset_5
+      rect:
+        serializedVersion: 2
+        x: 0.2666931
+        y: 246.1333
+        width: 101.0667
+        height: 14.66667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50.53334, y: 7.333334}
+        - {x: 50.53334, y: 7.333334}
+        - {x: -50.53334, y: -7.333334}
+      - - {x: -50.53334, y: -7.333334}
+        - {x: 50.53334, y: 7.333334}
+        - {x: 50.53334, y: -7.333334}
+      physicsShape:      
+      - - {x: -50.7333, y: 7.6333}
+        - {x: -50.7333, y: -7.3667}
+        - {x: 51.2667, y: -7.3667}
+        - {x: 51.2667, y: 7.6333}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameAsset_16
+      rect:
+        serializedVersion: 2
+        x: 1.525879E-05
+        y: 275.1333
+        width: 25.06667
+        height: 13.86667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.53333, y: 6.933334}
+        - {x: 12.53333, y: 6.933334}
+        - {x: -12.53333, y: -6.933334}
+      - - {x: -12.53333, y: -6.933334}
+        - {x: 12.53333, y: 6.933334}
+        - {x: 12.53333, y: -6.933334}
+      physicsShape:      
+      - - {x: -13.0000, y: 7.1333}
+        - {x: -13.0000, y: -6.8667}
+        - {x: 11.0000, y: -6.8667}
+        - {x: 13.0000, y: -4.8667}
+        - {x: 13.0000, y: 7.1333}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameAsset_6
+      rect:
+        serializedVersion: 2
+        x: 0.7333374
+        y: 263.2667
+        width: 120.2667
+        height: 9.066668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60.13334, y: 4.533334}
+        - {x: 60.13334, y: 4.533334}
+        - {x: -60.13334, y: -4.533334}
+      - - {x: -60.13334, y: -4.533334}
+        - {x: 60.13334, y: 4.533334}
+        - {x: 60.13334, y: -4.533334}
+      physicsShape:      
+      - - {x: -59.7667, y: 5.2667}
+        - {x: -59.7667, y: -4.7333}
+        - {x: 61.2333, y: -4.7333}
+        - {x: 61.2333, y: 5.2667}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

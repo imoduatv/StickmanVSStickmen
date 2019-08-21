@@ -1,0 +1,266 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9bcffb840bad71d268f93de1b232b970, type: 3}
+  m_Name: "Data"
+  m_EditorClassIdentifier: 
+  bulletsc:
+  - BulletesForLevel: 1
+    TotalTimeForLevel: 1
+    TargetBulletesForLevel: 10
+    TargetTimeForLevel: 60
+  - BulletesForLevel: 1
+    TotalTimeForLevel: 1
+    TargetBulletesForLevel: 10
+    TargetTimeForLevel: 60
+  - BulletesForLevel: 1
+    TotalTimeForLevel: 1
+    TargetBulletesForLevel: 10
+    TargetTimeForLevel: 60
+  - BulletesForLevel: 6
+    TotalTimeForLevel: 45
+    TargetBulletesForLevel: 1
+    TargetTimeForLevel: 5
+  - BulletesForLevel: 10
+    TotalTimeForLevel: 50
+    TargetBulletesForLevel: 4
+    TargetTimeForLevel: 25
+  - BulletesForLevel: 8
+    TotalTimeForLevel: 60
+    TargetBulletesForLevel: 2
+    TargetTimeForLevel: 30
+  - BulletesForLevel: 8
+    TotalTimeForLevel: 40
+    TargetBulletesForLevel: 4
+    TargetTimeForLevel: 20
+  - BulletesForLevel: 8
+    TotalTimeForLevel: 40
+    TargetBulletesForLevel: 3
+    TargetTimeForLevel: 20
+  - BulletesForLevel: 8
+    TotalTimeForLevel: 35
+    TargetBulletesForLevel: 4
+    TargetTimeForLevel: 15
+  - BulletesForLevel: 10
+    TotalTimeForLevel: 45
+    TargetBulletesForLevel: 4
+    TargetTimeForLevel: 20
+  - BulletesForLevel: 8
+    TotalTimeForLevel: 45
+    TargetBulletesForLevel: 4
+    TargetTimeForLevel: 20
+  - BulletesForLevel: 8
+    TotalTimeForLevel: 50
+    TargetBulletesForLevel: 3
+    TargetTimeForLevel: 25
+  - BulletesForLevel: 8
+    TotalTimeForLevel: 40
+    TargetBulletesForLevel: 3
+    TargetTimeForLevel: 15
+  - BulletesForLevel: 8
+    TotalTimeForLevel: 45
+    TargetBulletesForLevel: 3
+    TargetTimeForLevel: 20
+  - BulletesForLevel: 8
+    TotalTimeForLevel: 45
+    TargetBulletesForLevel: 3
+    TargetTimeForLevel: 20
+  - BulletesForLevel: 6
+    TotalTimeForLevel: 25
+    TargetBulletesForLevel: 2
+    TargetTimeForLevel: 8
+  - BulletesForLevel: 12
+    TotalTimeForLevel: 45
+    TargetBulletesForLevel: 4
+    TargetTimeForLevel: 20
+  - BulletesForLevel: 10
+    TotalTimeForLevel: 45
+    TargetBulletesForLevel: 5
+    TargetTimeForLevel: 25
+  - BulletesForLevel: 5
+    TotalTimeForLevel: 30
+    TargetBulletesForLevel: 2
+    TargetTimeForLevel: 15
+  - BulletesForLevel: 12
+    TotalTimeForLevel: 50
+    TargetBulletesForLevel: 2
+    TargetTimeForLevel: 20
+  - BulletesForLevel: 6
+    TotalTimeForLevel: 35
+    TargetBulletesForLevel: 2
+    TargetTimeForLevel: 15
+  - BulletesForLevel: 10
+    TotalTimeForLevel: 45
+    TargetBulletesForLevel: 4
+    TargetTimeForLevel: 15
+  - BulletesForLevel: 8
+    TotalTimeForLevel: 40
+    TargetBulletesForLevel: 4
+    TargetTimeForLevel: 10
+  - BulletesForLevel: 10
+    TotalTimeForLevel: 40
+    TargetBulletesForLevel: 4
+    TargetTimeForLevel: 10
+  - BulletesForLevel: 8
+    TotalTimeForLevel: 45
+    TargetBulletesForLevel: 4
+    TargetTimeForLevel: 15
+  - BulletesForLevel: 15
+    TotalTimeForLevel: 45
+    TargetBulletesForLevel: 4
+    TargetTimeForLevel: 12
+  - BulletesForLevel: 10
+    TotalTimeForLevel: 35
+    TargetBulletesForLevel: 2
+    TargetTimeForLevel: 10
+  - BulletesForLevel: 8
+    TotalTimeForLevel: 40
+    TargetBulletesForLevel: 4
+    TargetTimeForLevel: 10
+  - BulletesForLevel: 10
+    TotalTimeForLevel: 40
+    TargetBulletesForLevel: 4
+    TargetTimeForLevel: 20
+  - BulletesForLevel: 8
+    TotalTimeForLevel: 45
+    TargetBulletesForLevel: 4
+    TargetTimeForLevel: 20
+  - BulletesForLevel: 6
+    TotalTimeForLevel: 45
+    TargetBulletesForLevel: 2
+    TargetTimeForLevel: 20
+  - BulletesForLevel: 6
+    TotalTimeForLevel: 45
+    TargetBulletesForLevel: 4
+    TargetTimeForLevel: 15
+  - BulletesForLevel: 10
+    TotalTimeForLevel: 50
+    TargetBulletesForLevel: 3
+    TargetTimeForLevel: 15
+  - BulletesForLevel: 8
+    TotalTimeForLevel: 35
+    TargetBulletesForLevel: 2
+    TargetTimeForLevel: 15
+  - BulletesForLevel: 5
+    TotalTimeForLevel: 30
+    TargetBulletesForLevel: 2
+    TargetTimeForLevel: 15
+  - BulletesForLevel: 6
+    TotalTimeForLevel: 40
+    TargetBulletesForLevel: 3
+    TargetTimeForLevel: 15
+  - BulletesForLevel: 6
+    TotalTimeForLevel: 30
+    TargetBulletesForLevel: 2
+    TargetTimeForLevel: 10
+  - BulletesForLevel: 5
+    TotalTimeForLevel: 45
+    TargetBulletesForLevel: 2
+    TargetTimeForLevel: 25
+  - BulletesForLevel: 9
+    TotalTimeForLevel: 35
+    TargetBulletesForLevel: 3
+    TargetTimeForLevel: 12
+  - BulletesForLevel: 8
+    TotalTimeForLevel: 30
+    TargetBulletesForLevel: 4
+    TargetTimeForLevel: 12
+  - BulletesForLevel: 6
+    TotalTimeForLevel: 30
+    TargetBulletesForLevel: 2
+    TargetTimeForLevel: 12
+  - BulletesForLevel: 6
+    TotalTimeForLevel: 30
+    TargetBulletesForLevel: 1
+    TargetTimeForLevel: 10
+  - BulletesForLevel: 5
+    TotalTimeForLevel: 25
+    TargetBulletesForLevel: 2
+    TargetTimeForLevel: 15
+  - BulletesForLevel: 5
+    TotalTimeForLevel: 30
+    TargetBulletesForLevel: 1
+    TargetTimeForLevel: 15
+  - BulletesForLevel: 5
+    TotalTimeForLevel: 45
+    TargetBulletesForLevel: 2
+    TargetTimeForLevel: 15
+  - BulletesForLevel: 15
+    TotalTimeForLevel: 45
+    TargetBulletesForLevel: 5
+    TargetTimeForLevel: 25
+  - BulletesForLevel: 10
+    TotalTimeForLevel: 45
+    TargetBulletesForLevel: 5
+    TargetTimeForLevel: 20
+  - BulletesForLevel: 15
+    TotalTimeForLevel: 45
+    TargetBulletesForLevel: 5
+    TargetTimeForLevel: 20
+  - BulletesForLevel: 8
+    TotalTimeForLevel: 40
+    TargetBulletesForLevel: 4
+    TargetTimeForLevel: 20
+  - BulletesForLevel: 6
+    TotalTimeForLevel: 35
+    TargetBulletesForLevel: 2
+    TargetTimeForLevel: 20
+  - BulletesForLevel: 6
+    TotalTimeForLevel: 20
+    TargetBulletesForLevel: 2
+    TargetTimeForLevel: 8
+  - BulletesForLevel: 6
+    TotalTimeForLevel: 30
+    TargetBulletesForLevel: 2
+    TargetTimeForLevel: 15
+  - BulletesForLevel: 10
+    TotalTimeForLevel: 30
+    TargetBulletesForLevel: 5
+    TargetTimeForLevel: 15
+  - BulletesForLevel: 10
+    TotalTimeForLevel: 30
+    TargetBulletesForLevel: 5
+    TargetTimeForLevel: 15
+  - BulletesForLevel: 10
+    TotalTimeForLevel: 30
+    TargetBulletesForLevel: 5
+    TargetTimeForLevel: 15
+  - BulletesForLevel: 6
+    TotalTimeForLevel: 30
+    TargetBulletesForLevel: 2
+    TargetTimeForLevel: 10
+  - BulletesForLevel: 7
+    TotalTimeForLevel: 30
+    TargetBulletesForLevel: 3
+    TargetTimeForLevel: 10
+  - BulletesForLevel: 6
+    TotalTimeForLevel: 25
+    TargetBulletesForLevel: 2
+    TargetTimeForLevel: 10
+  - BulletesForLevel: 6
+    TotalTimeForLevel: 25
+    TargetBulletesForLevel: 2
+    TargetTimeForLevel: 10
+  - BulletesForLevel: 8
+    TotalTimeForLevel: 25
+    TargetBulletesForLevel: 3
+    TargetTimeForLevel: 10
+  - BulletesForLevel: 4
+    TotalTimeForLevel: 10
+    TargetBulletesForLevel: 2
+    TargetTimeForLevel: 3
+  - BulletesForLevel: 5
+    TotalTimeForLevel: 25
+    TargetBulletesForLevel: 2
+    TargetTimeForLevel: 10
+  - BulletesForLevel: 6
+    TotalTimeForLevel: 25
+    TargetBulletesForLevel: 2
+    TargetTimeForLevel: 10

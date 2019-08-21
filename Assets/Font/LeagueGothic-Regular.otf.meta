@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 95583a58b6a7490c9a8ce76ecf4c3499
+timeCreated: 1566397818
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "LeagueGothic-Regular"
+  fontNames:
+  - League Gothic
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

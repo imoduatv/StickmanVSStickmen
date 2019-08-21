@@ -1,0 +1,327 @@
+fileFormatVersion: 2
+guid: 75bab7756fa8413891df7e7432b42ec6
+timeCreated: 1566397808
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 56
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites: []
+    outline:
+    - - {x: -211, y: -23}
+      - {x: -211, y: 26}
+      - {x: -152, y: -23}
+    - - {x: -159, y: -6}
+      - {x: -152, y: -23}
+      - {x: -211, y: 26}
+    - - {x: -155, y: -6}
+      - {x: -152, y: -23}
+      - {x: -159, y: -6}
+    - - {x: -152, y: -9}
+      - {x: -152, y: -23}
+      - {x: -155, y: -6}
+    - - {x: -151, y: -21}
+      - {x: -152, y: -23}
+      - {x: -152, y: -9}
+    - - {x: -142, y: 19}
+      - {x: -143, y: 26}
+      - {x: -142, y: 24}
+    - - {x: -211, y: 26}
+      - {x: -143, y: 26}
+      - {x: -159, y: -6}
+    - - {x: -152, y: -4}
+      - {x: -159, y: -6}
+      - {x: -143, y: 26}
+    - - {x: -150, y: -17}
+      - {x: -152, y: -4}
+      - {x: -143, y: 26}
+    - - {x: -148, y: -22}
+      - {x: -150, y: -17}
+      - {x: -143, y: 26}
+    - - {x: -136, y: -23}
+      - {x: -148, y: -22}
+      - {x: -143, y: 26}
+    - - {x: -142, y: 19}
+      - {x: -136, y: -23}
+      - {x: -143, y: 26}
+    - - {x: -142, y: 24}
+      - {x: -136, y: -23}
+      - {x: -142, y: 19}
+    - - {x: -142, y: 26}
+      - {x: -136, y: -23}
+      - {x: -142, y: 24}
+    - - {x: -134, y: -19}
+      - {x: -136, y: -23}
+      - {x: -142, y: 26}
+    - - {x: -78, y: 26}
+      - {x: -134, y: -19}
+      - {x: -142, y: 26}
+    - - {x: -131, y: -23}
+      - {x: -134, y: -19}
+      - {x: -78, y: 26}
+    - - {x: -69, y: -23}
+      - {x: -131, y: -23}
+      - {x: -78, y: 26}
+    - - {x: -69, y: -6}
+      - {x: -69, y: -23}
+      - {x: -78, y: 26}
+    - - {x: -48, y: -24}
+      - {x: -48, y: 25}
+      - {x: 123, y: -24}
+    - - {x: 121, y: -6}
+      - {x: 123, y: -24}
+      - {x: -48, y: 25}
+    - - {x: 125, y: -6}
+      - {x: 123, y: -24}
+      - {x: 121, y: -6}
+    - - {x: 129, y: -21}
+      - {x: 123, y: -24}
+      - {x: 125, y: -6}
+    - - {x: 128, y: -9}
+      - {x: 129, y: -21}
+      - {x: 125, y: -6}
+    - - {x: 131, y: -24}
+      - {x: 132, y: 8}
+      - {x: 149, y: -24}
+    - - {x: 210, y: 25}
+      - {x: 132, y: 8}
+      - {x: -48, y: 25}
+    - - {x: 121, y: -6}
+      - {x: -48, y: 25}
+      - {x: 132, y: 8}
+    - - {x: 150, y: -21}
+      - {x: 132, y: 8}
+      - {x: 210, y: 25}
+    - - {x: 149, y: -24}
+      - {x: 132, y: 8}
+      - {x: 150, y: -21}
+    - - {x: 154, y: -24}
+      - {x: 150, y: -21}
+      - {x: 210, y: 25}
+    - - {x: 205, y: -24}
+      - {x: 154, y: -24}
+      - {x: 210, y: 25}
+    - - {x: 211, y: -22}
+      - {x: 205, y: -24}
+      - {x: 210, y: 25}
+    - - {x: 212, y: 22}
+      - {x: 211, y: -22}
+      - {x: 210, y: 25}
+    - - {x: 212, y: -15}
+      - {x: 211, y: -22}
+      - {x: 212, y: 22}
+    physicsShape:    
+    - - {x: 152.00, y: -16.00}
+      - {x: 156.00, y: -23.00}
+      - {x: 204.00, y: -23.00}
+      - {x: 208.00, y: -18.00}
+      - {x: 211.00, y: -15.00}
+      - {x: 211.00, y: 17.00}
+      - {x: 208.00, y: 21.00}
+      - {x: 201.00, y: 24.00}
+      - {x: 114.00, y: 24.00}
+      - {x: 99.0000, y: 23.00}
+      - {x: 97.00, y: 21.00}
+      - {x: 97.00, y: -5.00}
+      - {x: 85.00, y: -8.00}
+      - {x: 86.00, y: 22.00}
+      - {x: 84.00, y: 24.00}
+      - {x: 44.00, y: 24.00}
+      - {x: 42.00, y: 22.00}
+      - {x: 42.00, y: 19.00}
+      - {x: 43.00, y: -2.00}
+      - {x: 42.00, y: 21.00}
+      - {x: 41.00, y: 24.00}
+      - {x: 30.0, y: 24.00}
+      - {x: 29.00, y: 22.00}
+      - {x: 26.00, y: 14.00}
+      - {x: 20.0, y: 24.00}
+      - {x: -26.00, y: 24.00}
+      - {x: -40.0, y: 23.00}
+      - {x: -47.00, y: 17.00}
+      - {x: -47.00, y: -19.00}
+      - {x: -39.00, y: -23.00}
+      - {x: 16.00, y: -23.00}
+      - {x: 23.00, y: -20.0}
+      - {x: 24.00, y: -6.00}
+      - {x: 28.00, y: -19.00}
+      - {x: 29.00, y: -21.00}
+      - {x: 51.00, y: -23.00}
+      - {x: 57.00, y: -23.00}
+      - {x: 59.00, y: -17.00}
+      - {x: 57.00, y: -2.00}
+      - {x: 68.00, y: -2.00}
+      - {x: 69.00, y: -18.00}
+      - {x: 72.00, y: -23.00}
+      - {x: 119.00, y: -23.00}
+      - {x: 125.00, y: -21.00}
+      - {x: 127.00, y: -19.00}
+      - {x: 127.00, y: -10.0000}
+      - {x: 124.00, y: -7.00}
+      - {x: 122.00, y: -7.00}
+      - {x: 120.0, y: 6.00}
+      - {x: 129.00, y: 8.00}
+      - {x: 134.00, y: 12.00}
+      - {x: 132.00, y: -20.0}
+      - {x: 133.00, y: -23.00}
+      - {x: 148.00, y: -23.00}
+      - {x: 148.00, y: -19.00}
+      - {x: 147.00, y: -7.00}
+      - {x: 153.00, y: 8.00}
+    - - {x: -160.0, y: -7.00}
+      - {x: -154.00, y: 6.00}
+      - {x: -150.0, y: -4.00}
+      - {x: -149.00, y: -18.00}
+      - {x: -148.00, y: -22.00}
+      - {x: -142.00, y: -22.00}
+      - {x: -133.00, y: -20.0}
+      - {x: -129.00, y: 12.00}
+      - {x: -127.00, y: -19.00}
+      - {x: -125.00, y: -22.00}
+      - {x: -71.00, y: -22.00}
+      - {x: -69.00, y: -20.0}
+      - {x: -69.00, y: -15.00}
+      - {x: -70.0, y: -7.00}
+      - {x: -76.00, y: -5.00}
+      - {x: -86.00, y: -9.00}
+      - {x: -84.00, y: 22.00}
+      - {x: -86.00, y: 24.00}
+      - {x: -126.00, y: 24.00}
+      - {x: -128.00, y: 25.00}
+      - {x: -154.00, y: 25.00}
+      - {x: -181.00, y: 23.00}
+      - {x: -183.00, y: 21.00}
+      - {x: -183.00, y: -5.00}
+      - {x: -195.00, y: -8.00}
+      - {x: -195.00, y: 17.00}
+      - {x: -193.00, y: 22.00}
+      - {x: -209.00, y: 25.00}
+      - {x: -210.0, y: 21.00}
+      - {x: -210.0, y: -18.00}
+      - {x: -208.00, y: -22.00}
+      - {x: -153.00, y: -22.00}
+      - {x: -151.00, y: -9.00}
+      - {x: -155.00, y: -6.00}
+    - - {x: 183.00, y: -10.0000}
+      - {x: 179.00, y: -6.00}
+      - {x: 180.0, y: 8.00}
+      - {x: 183.00, y: 11.00}
+      - {x: 182.00, y: 15.00}
+      - {x: 181.00, y: 10.0000}
+      - {x: 182.00, y: 8.00}
+      - {x: 181.00, y: 7.00}
+      - {x: 181.00, y: 4.00}
+      - {x: 182.00, y: 3.00}
+      - {x: 183.00, y: -16.00}
+      - {x: 184.00, y: -15.00}
+    - - {x: -32.00, y: 2.00}
+      - {x: -31.00, y: 3.00}
+      - {x: -31.00, y: 9.00}
+      - {x: -32.00, y: 9.00}
+      - {x: -33.00, y: 4.00}
+      - {x: -29.00, y: 0}
+      - {x: -28.00, y: 0}
+      - {x: -25.00, y: 1.000}
+      - {x: -20.0, y: 7.00}
+      - {x: -21.00, y: -4.00}
+      - {x: -19.00, y: -7.00}
+      - {x: -18.00, y: -5.00}
+      - {x: -22.00, y: 0}
+      - {x: -26.00, y: 1.000}
+      - {x: -30.0, y: -3.00}
+      - {x: -30.0, y: -5.00}
+    - - {x: -5.00, y: -2.00}
+      - {x: -5.00, y: 11.00}
+      - {x: -7.00, y: 11.00}
+      - {x: -7.00, y: 4.00}
+      - {x: -6.00, y: -8.00}
+    - - {x: 197.00, y: 9.00}
+      - {x: 196.00, y: -2.00}
+      - {x: 197.00, y: -3.00}
+      - {x: 197.00, y: -8.00}
+    - - {x: -108.00, y: -6.00}
+      - {x: -103.00, y: -3.00}
+      - {x: -102.00, y: 4.00}
+      - {x: -101.00, y: -6.00}
+    bones: []
+    spriteID:
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!4 &1789941449402428875
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1789941449402428874}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 366, y: 206, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1789941449402428874
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1789941449402428875}
+  - component: {fileID: 1789941449402428877}
+  - component: {fileID: 1789941449402428878}
+  - component: {fileID: 1789941449402428876}
+  m_Layer: 0
+  m_Name: "_ads_manager"
+  m_TagString:
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1789941449402428876
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1789941449402428874}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 142ad16d9c72ceb826b89b2b10441ba5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1789941449402428877
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1789941449402428874}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a67b92979e9fd33a17063705d36a7262, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _admob_App_id: 
+  _admob_Banner: 
+  _admob_Interstitial: 
+  _admob_Rewarded: 
+  _unity_id: 
+  is_level_selection_ad_enabled: 0
+  is_level_complete_ad_enabled: 0
+  is_level_fail_ad_enabled: 0
+  is_pause_selection_ad_enabled: 0
+  is_quit_ad_enabled: 0
+  is_loading_ad_enabled: 0
+  is_reward_ad_enabled: 0
+  priorityForComplete: 0
+  priorityForFail: 0
+  priorityForPause: 0
+  priorityForQuit: 0
+  isSharable: 0
+  RewardAfter_inSeconds: 0
+  loadingTime: 0

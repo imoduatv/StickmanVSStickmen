@@ -1,0 +1,722 @@
+fileFormatVersion: 2
+guid: e0f2d8a9b54146949436954938b5133e
+timeCreated: 1566397853
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300010: forest-2_15
+    21300002: forest-2_0
+    21300006: forest-2_5
+    21300012: forest-2_16
+    21300018: forest-2_8
+    21300008: forest-2_9
+    21300020: forest-2_11
+    21300004: forest-2_3
+    21300000: forest-2_1
+    21300022: forest-2_12
+    21300016: forest-2_7
+    21300014: forest-2_4
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 57
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: forest-2_15
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 736
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: -128}
+      - - {x: 128, y: 128}
+        - {x: 128, y: -128}
+        - {x: -128, y: 128}
+      physicsShape:      
+      - - {x: -128.00, y: 128.00}
+        - {x: -128.00, y: -128.00}
+        - {x: 128.00, y: -128.00}
+        - {x: 128.00, y: 128.00}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest-2_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 596
+        width: 255
+        height: 396
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -127.5, y: -198}
+        - {x: -127.5, y: 198}
+        - {x: 127.5, y: -198}
+      - - {x: -16.5, y: 198}
+        - {x: 127.5, y: -198}
+        - {x: -127.5, y: 198}
+      - - {x: 29.5, y: 192}
+        - {x: 127.5, y: -198}
+        - {x: -16.5, y: 198}
+      - - {x: 127.5, y: 84}
+        - {x: 127.5, y: -198}
+        - {x: 29.5, y: 192}
+      physicsShape:      
+      - - {x: 120.500, y: 85.00}
+        - {x: 109.500, y: 96.00}
+        - {x: 103.500, y: 100}
+        - {x: 93.500, y: 107.00}
+        - {x: 89.500, y: 117.00}
+        - {x: 84.500, y: 119.00}
+        - {x: 80.500, y: 114.00}
+        - {x: 71.500, y: 132.00}
+        - {x: 66.500, y: 132.00}
+        - {x: 61.500, y: 130.0}
+        - {x: 52.500, y: 142.00}
+        - {x: 44.500, y: 146.00}
+        - {x: 42.500, y: 148.00}
+        - {x: 35.500, y: 153.00}
+        - {x: 36.500, y: 158.00}
+        - {x: 34.500, y: 162.00}
+        - {x: 27.500, y: 159.00}
+        - {x: 20.500, y: 172.00}
+        - {x: 8.500, y: 177.00}
+        - {x: -7.500, y: 183.00}
+        - {x: -21.500, y: 186.00}
+        - {x: -35.500, y: 191.00}
+        - {x: -38.500, y: 197.00}
+        - {x: -43.500, y: 198.00}
+        - {x: -86.500, y: 198.00}
+        - {x: -94.500, y: 196.00}
+        - {x: -119.500, y: 196.00}
+        - {x: -120.500, y: 198.00}
+        - {x: -123.500, y: 198.00}
+        - {x: -127.500, y: 196.00}
+        - {x: -127.500, y: -198.00}
+        - {x: 127.500, y: -198.00}
+        - {x: 127.500, y: 82.00}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest-2_5
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 455
+        width: 257
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 1, w: 0}
+      outline:
+      - - {x: -128.5, y: -71}
+        - {x: -128.5, y: 67}
+        - {x: 128.5, y: -71}
+      - - {x: -119.5, y: 71}
+        - {x: 128.5, y: -71}
+        - {x: -128.5, y: 67}
+      - - {x: 124.5, y: 71}
+        - {x: 128.5, y: -71}
+        - {x: -119.5, y: 71}
+      - - {x: 128.5, y: 70}
+        - {x: 128.5, y: -71}
+        - {x: 124.5, y: 71}
+      physicsShape:      
+      - - {x: 122.500, y: 65.00}
+        - {x: 120.500, y: 63.00}
+        - {x: 120.500, y: 61.00}
+        - {x: 119.500, y: 67.00}
+        - {x: 114.500, y: 71.00}
+        - {x: 108.500, y: 71.00}
+        - {x: 104.500, y: 62.00}
+        - {x: 99.500, y: 67.00}
+        - {x: 92.500, y: 70.0}
+        - {x: 88.500, y: 70.0}
+        - {x: 79.500, y: 63.00}
+        - {x: 69.500, y: 65.00}
+        - {x: 64.500, y: 63.00}
+        - {x: 58.500, y: 65.00}
+        - {x: 51.500, y: 66.00}
+        - {x: 44.500, y: 71.00}
+        - {x: 40.500, y: 71.00}
+        - {x: 38.500, y: 65.00}
+        - {x: 30.500, y: 71.00}
+        - {x: 5.500, y: 71.00}
+        - {x: 2.500, y: 69.00}
+        - {x: -17.500, y: 67.00}
+        - {x: -30.500, y: 65.00}
+        - {x: -32.500, y: 71.00}
+        - {x: -42.500, y: 71.00}
+        - {x: -60.500, y: 67.00}
+        - {x: -80.500, y: 70.0}
+        - {x: -94.500, y: 67.00}
+        - {x: -96.500, y: 62.00}
+        - {x: -96.500, y: 60.0}
+        - {x: -100.500, y: 66.00}
+        - {x: -112.500, y: 65.00}
+        - {x: -123.500, y: 68.00}
+        - {x: -128.500, y: 62.00}
+        - {x: -128.500, y: -71.00}
+        - {x: 128.500, y: -71.00}
+        - {x: 128.500, y: 61.00}
+        - {x: 124.500, y: 65.00}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest-2_16
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 718
+        width: 256
+        height: 274
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -137}
+        - {x: -128, y: 137}
+        - {x: 128, y: -137}
+      - - {x: -114, y: 137}
+        - {x: 128, y: -137}
+        - {x: -128, y: 137}
+      - - {x: 128, y: 15}
+        - {x: 128, y: -137}
+        - {x: -114, y: 137}
+      physicsShape:      
+      - - {x: 123.00, y: 1.000}
+        - {x: 121.00, y: -1.000}
+        - {x: 121.00, y: 1.000}
+        - {x: 115.00, y: 7.00}
+        - {x: 105.00, y: 10.0000}
+        - {x: 97.00, y: 15.00}
+        - {x: 82.00, y: 15.00}
+        - {x: 79.00, y: 11.00}
+        - {x: 71.00, y: 13.00}
+        - {x: 53.00, y: 14.00}
+        - {x: 41.00, y: 16.00}
+        - {x: 38.00, y: 26.00}
+        - {x: 29.00, y: 28.00}
+        - {x: 13.00, y: 31.00}
+        - {x: -5.00, y: 40.0}
+        - {x: -7.00, y: 40.0}
+        - {x: -18.00, y: 44.00}
+        - {x: -25.00, y: 49.00}
+        - {x: -35.00, y: 54.00}
+        - {x: -42.00, y: 56.00}
+        - {x: -39.00, y: 59.00}
+        - {x: -39.00, y: 60.0}
+        - {x: -41.00, y: 62.00}
+        - {x: -50.0, y: 68.00}
+        - {x: -55.00, y: 76.00}
+        - {x: -58.00, y: 80.0}
+        - {x: -66.00, y: 76.00}
+        - {x: -73.00, y: 91.00}
+        - {x: -79.00, y: 91.00}
+        - {x: -82.00, y: 89.00}
+        - {x: -92.00, y: 94.00}
+        - {x: -91.00, y: 100}
+        - {x: -99.0000, y: 109.00}
+        - {x: -107.00, y: 110.0}
+        - {x: -107.00, y: 120.0}
+        - {x: -110.0, y: 122.00}
+        - {x: -116.00, y: 124.00}
+        - {x: -122.00, y: 137.00}
+        - {x: -127.00, y: 137.00}
+        - {x: -128.00, y: 136.00}
+        - {x: -128.00, y: -137.00}
+        - {x: 128.00, y: -137.00}
+        - {x: 128.00, y: -2.00}
+        - {x: 125.00, y: 1.000}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest-2_8
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 210
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: -64}
+        - {x: -64, y: 64}
+        - {x: 64, y: -64}
+      - - {x: 64, y: 64}
+        - {x: 64, y: -64}
+        - {x: -64, y: 64}
+      physicsShape:      
+      - - {x: -64.00, y: 64.00}
+        - {x: -64.00, y: -64.00}
+        - {x: 64.00, y: -64.00}
+        - {x: 64.00, y: 64.00}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest-2_9
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 69
+        width: 137
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68.5, y: -10.5}
+        - {x: -68.5, y: 45.5}
+        - {x: -62.5, y: -69.5}
+      - - {x: -45.5, y: 69.5}
+        - {x: -62.5, y: -69.5}
+        - {x: -68.5, y: 45.5}
+      - - {x: 68.5, y: -69.5}
+        - {x: -62.5, y: -69.5}
+        - {x: -45.5, y: 69.5}
+      - - {x: 68.5, y: 69.5}
+        - {x: 68.5, y: -69.5}
+        - {x: -45.5, y: 69.5}
+      physicsShape:      
+      - - {x: 63.500, y: 66.500}
+        - {x: 61.500, y: 64.500}
+        - {x: 61.500, y: 66.500}
+        - {x: 58.500, y: 69.500}
+        - {x: 48.500, y: 69.500}
+        - {x: 47.500, y: 64.500}
+        - {x: 41.500, y: 67.500}
+        - {x: 36.500, y: 69.500}
+        - {x: 25.500, y: 69.500}
+        - {x: 17.500, y: 62.500}
+        - {x: 1.500, y: 64.500}
+        - {x: -7.500, y: 66.500}
+        - {x: -19.500, y: 64.500}
+        - {x: -23.500, y: 59.500}
+        - {x: -36.500, y: 61.500}
+        - {x: -46.500, y: 54.500}
+        - {x: -56.500, y: 52.500}
+        - {x: -68.500, y: 43.500}
+        - {x: -68.500, y: 16.500}
+        - {x: -67.500, y: 13.500}
+        - {x: -62.500, y: 11.500}
+        - {x: -62.500, y: -32.500}
+        - {x: -61.500, y: -69.500}
+        - {x: 68.500, y: -69.500}
+        - {x: 68.500, y: 63.500}
+        - {x: 65.500, y: 66.500}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest-2_11
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 62
+        width: 138
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69, y: -62.5}
+        - {x: -69, y: 61.5}
+        - {x: -63, y: -73.5}
+      - - {x: -54, y: 73.5}
+        - {x: -63, y: -73.5}
+        - {x: -69, y: 61.5}
+      - - {x: 69, y: -73.5}
+        - {x: -63, y: -73.5}
+        - {x: -54, y: 73.5}
+      - - {x: 69, y: 73.5}
+        - {x: 69, y: -73.5}
+        - {x: -54, y: 73.5}
+      physicsShape:      
+      - - {x: 64.00, y: 70.500}
+        - {x: 62.00, y: 68.500}
+        - {x: 62.00, y: 70.500}
+        - {x: 59.00, y: 73.500}
+        - {x: 48.00, y: 73.500}
+        - {x: 41.00, y: 71.500}
+        - {x: 36.00, y: 73.500}
+        - {x: 24.00, y: 73.500}
+        - {x: 10.0000, y: 68.500}
+        - {x: -11.00, y: 70.500}
+        - {x: -36.00, y: 64.500}
+        - {x: -45.00, y: 62.500}
+        - {x: -60.0, y: 51.500}
+        - {x: -58.00, y: 46.500}
+        - {x: -57.00, y: 45.500}
+        - {x: -62.00, y: 43.500}
+        - {x: -62.00, y: 41.500}
+        - {x: -61.00, y: 45.500}
+        - {x: -64.00, y: 47.500}
+        - {x: -68.00, y: 45.500}
+        - {x: -69.00, y: 34.500}
+        - {x: -69.00, y: 22.500}
+        - {x: -65.00, y: 17.500}
+        - {x: -61.00, y: 15.500}
+        - {x: -62.00, y: -35.500}
+        - {x: -61.00, y: -73.500}
+        - {x: 69.00, y: -73.500}
+        - {x: 69.00, y: 67.500}
+        - {x: 66.00, y: 70.500}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest-2_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 339
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 1}
+      outline:
+      - - {x: -128, y: -129}
+        - {x: -128, y: 129}
+        - {x: 128, y: -129}
+      - - {x: 128, y: 129}
+        - {x: 128, y: -129}
+        - {x: -128, y: 129}
+      physicsShape:      
+      - - {x: -128.00, y: 129.00}
+        - {x: -128.00, y: -129.00}
+        - {x: 128.00, y: -129.00}
+        - {x: 128.00, y: 129.00}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest-2_1
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 736
+        width: 128
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: -128}
+        - {x: -64, y: 128}
+        - {x: 64, y: -128}
+      - - {x: 64, y: 128}
+        - {x: 64, y: -128}
+        - {x: -64, y: 128}
+      physicsShape:      
+      - - {x: -64.00, y: 128.00}
+        - {x: -64.00, y: -128.00}
+        - {x: 64.00, y: -128.00}
+        - {x: 64.00, y: 128.00}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest-2_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 141
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70.5, y: -104.5}
+        - {x: -70.5, y: 58.5}
+        - {x: 15.5, y: -104.5}
+      - - {x: -50.5, y: 104.5}
+        - {x: 15.5, y: -104.5}
+        - {x: -70.5, y: 58.5}
+      - - {x: 12.5, y: -43.5}
+        - {x: 15.5, y: -104.5}
+        - {x: -50.5, y: 104.5}
+      - - {x: 19.5, y: -39.5}
+        - {x: 15.5, y: -104.5}
+        - {x: 12.5, y: -43.5}
+      - - {x: 27.5, y: -48.5}
+        - {x: 15.5, y: -104.5}
+        - {x: 19.5, y: -39.5}
+      - - {x: -50.5, y: 104.5}
+        - {x: 59.5, y: 104.5}
+        - {x: 12.5, y: -43.5}
+      - - {x: 70.5, y: -8.5}
+        - {x: 12.5, y: -43.5}
+        - {x: 59.5, y: 104.5}
+      - - {x: 70.5, y: 69.5}
+        - {x: 70.5, y: -8.5}
+        - {x: 59.5, y: 104.5}
+      physicsShape:      
+      - - {x: 16.500, y: -40.500}
+        - {x: 4.500, y: -62.500}
+        - {x: -5.500, y: -76.500}
+        - {x: -21.500, y: -49.500}
+        - {x: -11.500, y: -26.500}
+        - {x: 6.500, y: -9.500}
+        - {x: 18.500, y: -14.500}
+        - {x: 35.500, y: -22.500}
+        - {x: 37.500, y: -14.500}
+        - {x: 34.500, y: 10.500}
+        - {x: 54.500, y: 10.500}
+        - {x: 56.500, y: 12.500}
+        - {x: 56.500, y: 14.500}
+        - {x: 47.500, y: 25.500}
+        - {x: 61.500, y: 35.500}
+        - {x: 70.500, y: 42.500}
+        - {x: 70.500, y: 48.500}
+        - {x: 47.500, y: 54.500}
+        - {x: 52.500, y: 75.500}
+        - {x: 44.500, y: 77.500}
+        - {x: 34.500, y: 75.500}
+        - {x: 33.500, y: 94.500}
+        - {x: 31.500, y: 96.500}
+        - {x: 25.500, y: 93.500}
+        - {x: 18.500, y: 84.500}
+        - {x: 2.500, y: 104.500}
+        - {x: -2.500, y: 104.500}
+        - {x: -3.500, y: 103.500}
+        - {x: -12.500, y: 79.500}
+        - {x: -27.500, y: 89.500}
+        - {x: -33.500, y: 86.500}
+        - {x: -32.500, y: 67.500}
+        - {x: -53.500, y: 51.500}
+        - {x: -51.500, y: 45.500}
+        - {x: -38.500, y: 39.500}
+        - {x: -47.500, y: 21.500}
+        - {x: -25.500, y: 11.500}
+        - {x: -24.500, y: 0.500}
+        - {x: -22.500, y: -10.500}
+        - {x: -21.500, y: -14.500}
+        - {x: -19.500, y: -16.500}
+        - {x: -16.500, y: -15.500}
+        - {x: -21.500, y: -20.500}
+        - {x: -28.500, y: -32.500}
+        - {x: -35.500, y: -60.500}
+        - {x: -61.500, y: -74.500}
+        - {x: -66.500, y: -68.500}
+        - {x: -70.500, y: -70.500}
+        - {x: -70.500, y: -78.500}
+        - {x: -56.500, y: -90.500}
+        - {x: -43.500, y: -97.500}
+        - {x: -28.500, y: -104.500}
+        - {x: -2.500, y: -104.500}
+        - {x: 7.500, y: -97.500}
+        - {x: 17.500, y: -89.500}
+        - {x: 22.500, y: -42.500}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest-2_7
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 210
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 1}
+      outline:
+      - - {x: -64, y: -64.5}
+        - {x: -64, y: 64.5}
+        - {x: 64, y: -64.5}
+      - - {x: 64, y: 64.5}
+        - {x: 64, y: -64.5}
+        - {x: -64, y: 64.5}
+      physicsShape:      
+      - - {x: -64.00, y: 64.500}
+        - {x: -64.00, y: -64.500}
+        - {x: 64.00, y: -64.500}
+        - {x: 64.00, y: 64.500}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest-2_4
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 449
+        width: 256
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -73}
+        - {x: -128, y: 64}
+        - {x: 128, y: -73}
+      - - {x: -119, y: 68}
+        - {x: 128, y: -73}
+        - {x: -128, y: 64}
+      - - {x: -76, y: 71}
+        - {x: 128, y: -73}
+        - {x: -119, y: 68}
+      - - {x: -24, y: 73}
+        - {x: 128, y: -73}
+        - {x: -76, y: 71}
+      - - {x: 128, y: 73}
+        - {x: 128, y: -73}
+        - {x: -24, y: 73}
+      physicsShape:      
+      - - {x: 1.000, y: 73.00}
+        - {x: -5.00, y: 67.00}
+        - {x: -15.00, y: 67.00}
+        - {x: -25.00, y: 65.00}
+        - {x: -31.00, y: 68.00}
+        - {x: -38.00, y: 70.0}
+        - {x: -48.00, y: 69.00}
+        - {x: -53.00, y: 68.00}
+        - {x: -62.00, y: 63.00}
+        - {x: -79.00, y: 68.00}
+        - {x: -83.00, y: 63.00}
+        - {x: -112.00, y: 63.00}
+        - {x: -123.00, y: 67.00}
+        - {x: -128.00, y: 61.00}
+        - {x: -128.00, y: -73.00}
+        - {x: 128.00, y: -73.00}
+        - {x: 128.00, y: 73.00}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

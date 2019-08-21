@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9922218d142d4559a19d8af0b48e84d0
+timeCreated: 1566397819
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "Cocogoose Pro Light Trial"
+  fontNames:
+  - Cocogoose Pro
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - tack
+  - rope2D
+  - candy
+  - ground
+  - Ground
+  - Reflective
+  - Enemy
+  - FixedCannon
+  - Obstacle
+  - Rope
+  - Mud
+  - Bouncy
+  - Wood
+  - Friend
+  - Steel
+  - FxTemporaire
+  - Cage
+  - switch
+  - Effects
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemy
+  - Chain
+  - SceneObjects
+  - Player
+  - Bullet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: "Background"
+    uniqueID: 2661702747
+    locked: 0
+  - name: "Default"
+    uniqueID: 0
+    locked: 0
+  - name: "Grass"
+    uniqueID: 4218974729
+    locked: 0
+  - name: "Cursor"
+    uniqueID: 1815948305
+    locked: 0
